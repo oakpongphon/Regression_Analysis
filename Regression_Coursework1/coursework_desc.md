@@ -80,3 +80,6 @@ You may use the entire dataset for the final three questions:
 14. Instead of the Jaccard similarity, compute Cosine similarities where each user/item has a label of 1 if the game was played more than the median amount of time and −1 otherwise. Again report the Cosine similarities of the first and 10th most similar items (1 mark).
 
 15. Repeat the above question, but instead of using a binary indicator, compute the Cosine similarity using the hours transformed values directly. Again report the Cosine similarities of the first and 10th most similar items.
+
+
+_This coursework was designed by Julian McAuley._
