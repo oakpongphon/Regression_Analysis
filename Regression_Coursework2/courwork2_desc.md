@@ -5,3 +5,5 @@ In this coursework, I engaged in an in-depth exploration of Lasso regression, a 
 - Optimizing Alpha Value: Used LassoCV for cross-validation to find the optimal alpha value that minimizes the Mean Squared Error (MSE).
 - Balancing Model Complexity: Gained insights into balancing model complexity and accuracy, crucial for preventing overfitting.
 - Practical Model Tuning: Developed practical skills in model tuning and understanding the role of regularization in linear regression optimization.
+
+_This coursework was designed by Karsten Hansen._
